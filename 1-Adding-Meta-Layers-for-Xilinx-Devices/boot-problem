@@ -1,0 +1,8 @@
+......
+udevd[77]: starting eudev-3.2.11
+mount: /: cannot remount /dev/root read-write, is write-protected.
+       dmesg(1) may have more information after failed mount system call.
+
+----
+
+Would you help me with this? what is wrong? How can I fix it?
